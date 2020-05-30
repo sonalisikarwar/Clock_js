@@ -1,0 +1,19 @@
+body{
+    background-image: linear-gradient(rgb(255, 0, 140), rgb(177, 1, 247));
+}
+
+.fij{
+font-size: 150px;
+margin-left: 380px;
+margin-top: 180px;
+border-width: 8px 8px 8px 8px;
+border-color: white;
+border-style: solid;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: white;
+background-color: transparent;
+height: 180px;
+width: 610px;
+position: fixed;
+box-shadow: 1px 1px 2px 2px black;
+}
